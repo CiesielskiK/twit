@@ -1,1 +1,1 @@
-# twit
+# losowanie cytatow
